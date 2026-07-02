@@ -169,3 +169,6 @@ Este diseño utiliza un enfoque híbrido:
 - MongoDB almacena datos flexibles basados en documentos como recetas médicas.
 - Las relaciones principales se mantienen mediante identificadores.
 - El diseño facilita la futura implementación de modelos JPA para MySQL y documentos MongoDB para recetas.
+```
+
+https://github.com/Takreom/java-database-capstone/blob/main/schema-design.md
